@@ -1,4 +1,4 @@
 module.exports = {
-  token: "7426103637:AAGNzN0qbM8MIbOF_MaQvY3qtC2DuZJeBfA",
+  token: "7141555187:AAGPNg_MXJAAQRImsmLlw3JablxWLtId2HA",
   id:"7125184791",
 };
